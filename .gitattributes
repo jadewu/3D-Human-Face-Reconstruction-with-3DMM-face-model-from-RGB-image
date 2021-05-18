@@ -1,3 +1,5 @@
 BFM_model_front.mat filter=lfs diff=lfs merge=lfs -text
 .hdf5 filter=lfs diff=lfs merge=lfs -text
 epoch_01_loss_1.5747_Img_loss_0.0129_LMK_loss1.5619.pth filter=lfs diff=lfs merge=lfs -text
+.pth filter=lfs diff=lfs merge=lfs -text
+epoch_10_loss_1.1305_Img_loss_0.0112_LMK_loss1.1193.pth filter=lfs diff=lfs merge=lfs -text
