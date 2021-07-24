@@ -12,3 +12,6 @@ Extra packages:
 
 This is the project from Yue Wu and Juheng Yang in Image and Video Processing Spring 2021.
 <br /> Thanks a lot for the help from Zhipeng Fan.
+
+Update:
+7/24/2021 SoftRenderer is removed in the source code, but there are still some examples provided by the author on how to use SoftRasterizer. 
